@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four bloody murders lately committed by a zealot in France viz. on an antient gentlewoman, a colonel, and two young scholars : with an account of his attempt to strangle a gentleman, wherein failing he was seized on, and upon examination and the rack he confessed, was sentenc'd and burnt at Chalons / translated out of French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40048</idno>
+            <idno type="STC">Wing F1651</idno>
+            <idno type="STC">ESTC R36472</idno>
+            <idno type="EEBO-CITATION">15699580</idno>
+            <idno type="OCLC">ocm 15699580</idno>
+            <idno type="VID">104449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four bloody murders lately committed by a zealot in France viz. on an antient gentlewoman, a colonel, and two young scholars : with an account of his attempt to strangle a gentleman, wherein failing he was seized on, and upon examination and the rack he confessed, was sentenc'd and burnt at Chalons / translated out of French.</title>
+               </titleStmt>
+               <extent>[2], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance, March 17, 1672."</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  France.</term>
+               <term>Trials (Murder) --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104449:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>FOUR Bloody Murders Lately Committed by a ZEALOT in FRANCE.</p>
+            <p>
+               <hi>Viz.</hi> On an antient Gentle-woman, a Colonel, and two young Scholars.</p>
+            <p>
+               <hi>WITH</hi> An ACCOUNT of his Attempt to ſtrangle a Gentleman, wherein failing he was ſeized on, and upon Examination and the Rack, he Con<g ref="char:EOLhyphen"/>feſſed, was ſentenc'd and burnt at <hi>Chalons.</hi>
+            </p>
+            <p>Tranſlated out of French.</p>
+            <p>
+               <hi>With Allowance.</hi> March 17. 1672.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jonathan Edwin</hi> at the Three Roſes in <hi>Ludgate-ſtreet.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104449:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb n="1" facs="tcp:104449:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 104 -->
+            <head>FOUR Bloody Murders Lately Committed By a ZEALOT in <hi>FRANCE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg> Certain Citizen of <hi>Champaigne,</hi> born of a very honeſt Family, and who was of all eſteem'd an exceeding godly and religi<g ref="char:EOLhyphen"/>ous man, becauſe he always lived very recluſe and reſerved, and had never ſuffer'd his eyes to wander to re<g ref="char:EOLhyphen"/>ceive the Allurements and Temptations of wanton Women to the violence of his Chaſtity, for which he was ſo eminently obſerved in his Countrey, that he was called and known by the Name of <hi>Virgette,</hi> for they all believed him a godly Man and a true Virgin.</p>
+            <p>This Hypocrite being on a day with one of his Aunts who was truly devout, ſaw her re<g ref="char:EOLhyphen"/>ceive a Sum of Money that was a Debt; and
+<pb n="2" facs="tcp:104449:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 105 -->when they that brought it had taken their leave and were gone, he askt her for ſome to diſpoſe of in Charitable Uſes: The good Gentle<g ref="char:EOLhyphen"/>woman frankly gave him an hundred Livres, and lock'd up the remainder in a Trunk, where ſhe had a great deal more, which was not ſlightly regarded by her good Nephew, whoſe Affections that could withſtand the beauties of the moſt fair, were not a little ſurprized here<g ref="char:EOLhyphen"/>with.</p>
+            <p>Two days after this Viſit, <hi>Virgette</hi> meeting his Aunt at Church, according to her Cuſtom, importuned her to come home and dine with him, to which after he had very vehemently preſs'd her, ſhe at laſt conſented. There he made her an Entertainment, as handſomly as one could that kept neither Maid nor Men-Servants about him, for he was ſerv'd with Neceſſaries by ſuch as liv'd abroad. He gave her of ſome very excellent Wines which he had in his Cellar, and after Dinner invited her to walk down ſtairs to ſee it, and was urgent with her to do it upon ſome account or other, which I ſhall omit: But let this ſuffice for the know<g ref="char:EOLhyphen"/>ledge of the Story, that having her there, he had an Opportunity to act his deſign, and with a great Beetle he knockt out her Brains, and then
+<pb n="3" facs="tcp:104449:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 105 -->took from her the Keys of her Lodgings. 'Tis remarkable that he had made choice of a time for this bloody Murder, when the Servant of this good old Gentle-woman, who no leſs de<g ref="char:EOLhyphen"/>vour than her Miſtreſs, was gone on a Pil<g ref="char:EOLhyphen"/>grimage which would detein her eight days; which gave him an opportunity to his hearts deſire, to take away from his Aunt all ſhe had, or what he pleas'd. He came not into the Houſe but in the Evening, that he might be the leſs diſcovered by the Neighbours; where he readily ſound the way to the trunk, which he opened, and took thence all the Money, and went away with it in the dark without being obſerv'd by any. As ſoon as he reach'd home with his treaſure, he went into the Cellar where he had left the Body of his murdered Aunt, which he mangled into four parts, and caſt into the Town Ditch which went behind his Houſe.</p>
+            <p>The old Gentle woman being miſſing, ſhe was enquired and ſought for every where, and after five or ſix days ſearch, they found the Parts of her Body in the Ditch, where <hi>Virgette</hi> had diſpos'd of them. No one was accuſed for this Action, nor indeed could any tell what to think of it. At laſt a Son in law of hers
+<pb n="4" facs="tcp:104449:4"/>
+               <!-- PDF PAGE 106 -->was accuſed, becauſe ſome time before he had uſed to complain of her for not making ad<g ref="char:EOLhyphen"/>vantage of her Money as ſhe ſhould. This man after Examination was ſentenced to be put upon the Wrack, on which Sentence he appeal'd to <hi>Paris,</hi> where the former was con<g ref="char:EOLhyphen"/>firmed, whereupon he underwent it without making any Confeſſion, and therefore was quitted.</p>
+            <p>Six months after a Gentleman that was his Friend being to take a Journey, was enquiring for ſome Gold that he wanted for his conve<g ref="char:EOLhyphen"/>nience; <hi>Virgette</hi> told him he could help him to two hundred Pieces for Silver; the Gentleman whereupon went to him and carried with him ſo much Silver. Which this Hypocrite percei<g ref="char:EOLhyphen"/>ving, and being willing that nothing to his advantage might eſcape him, fell diſcourſing to him of a certain new ſort of a Pigeon-Houſe that he had, and perſuaded the Gentleman to a deſire of ſeeing it: In ſhort he led him in, and there while the Gentleman was conſidering ſomething that he ſaw there, he from behind him threw a Cord about his Neck, and with an intent to have ſtrangled him, immediately ſet his Knee to his Back, and fell a girding it with as much violence as his ſtrength could
+<pb n="5" facs="tcp:104449:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 106 -->afford. He preſumed he had caſt the Cord right to have diſpatch'd him, but to his miſ<g ref="char:EOLhyphen"/>fortune it had fallen no lower than his Noſe. The Gentleman perceiving this, made what re<g ref="char:EOLhyphen"/>ſiſtance he was able to be diſengag'd from him, and in the buſtle made a ſhift to throw this Villain to the ground, and in the fall to wound him with a Dagger that he had in his hand, which he took from him, crying out <hi>Murder,</hi> but this being in a by place, the noiſe was not eaſily heard, but only to one man, who came in thereupon, forcing open the Door, and immediately demanded the reaſon of the Diſ<g ref="char:EOLhyphen"/>order that occaſioned the Outcry: this Bigot replies preſently, <q>that <hi>that Gentleman</hi> (point<g ref="char:EOLhyphen"/>ing to him) <hi>had had a wicked intent to have ſtrangled himſelf, and to that end had got him<g ref="char:EOLhyphen"/>ſelf into his Pigeon-Houſe, where he found him in a deſperate manner endeavouring to commit a violence upon his own Body, being upon the point of hanging himſelf; But he coming in by chance and finding him in the Attempt, endeavoured what in him lay to prevent him from making ſuch a miſerable end; for which only he fell to practiſe firſt upon him, and had proceeded ſo far as to wound him (as he ſaw) which made him cry out and this was the true occaſion.</hi>
+               </q>
+            </p>
+            <pb n="6" facs="tcp:104449:5"/>
+            <!-- PDF PAGE 107 -->
+            <p>The Gentleman ſurpris'd at the readineſs of this Excuſe and the method of this Raillery, replied (to him that came in) <q>that <hi>he would fully pardon him and never be his Accuſer for this wicked Proſecution, provided he would only confeſs all, declare his action and intention, and that before the perſon that was then preſent:</hi> He added moreover, "that <hi>he ever believed him a very honest man, but that being overcome by a temptation that blinded him, at that time he was induced to undertake the Attempt upon him he had made.</hi>
+               </q> But notwithſtanding all this, <hi>Virgette</hi> would neither acknowledge his Kindneſs, nor confeſs his own Crime, whereupon he was immediately committed into the hands of Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+            <p>After that he was ſeiz'd on, at firſt he diſ<g ref="char:EOLhyphen"/>covered nothing but the ſigns and tokens of his aſtoniſhment, and wonder to ſee himſelf thus ſtrangely abuſed for the performance of a Charitable Duty. But ſome time afterwards, deploring his Misfortune, and being paſſionate<g ref="char:EOLhyphen"/>ly tranſported, he let fall ſome few words, which cauſed his Deſtruction: <hi>Does no one yet,</hi> ſaith he, <hi>accuſe me too for murdering my Aunt.</hi> Theſe words awakened the Spirits of thoſe that were then by, and gave them to conjecture,
+<pb n="7" facs="tcp:104449:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 107 -->that he being ſo bold to attempt upon a Gen<g ref="char:EOLhyphen"/>tleman, the Act for which he was committed; might probably be as villanous to commit the Murder upon his Aunt. Whereupon he was examined ſo very ſtrictly, that in the Conclu<g ref="char:EOLhyphen"/>ſion he confeſt himſelf guilty of what the Gen<g ref="char:EOLhyphen"/>tleman laid to his charge, but of that alone and nothing elſe: And for which he was con<g ref="char:EOLhyphen"/>demn'd to be hang'd.</p>
+            <p>Then he appeal'd to <hi>Paris,</hi> where the Gen<g ref="char:EOLhyphen"/>tleman that was Preſident at the <hi>Tournelle,</hi> took ſuch cognizance of what light was given him in the matter, that he faithfully diſcharg'd his duty, to the applauſe of his Wiſdom and E<g ref="char:EOLhyphen"/>quity. For he no ſooner heard what he had ſpoken concerning the Death of his Aunt, but he immediately commanded him to be put to the Wrack, where he preſently and openly con<g ref="char:EOLhyphen"/>feſt the Murder of the latter and his Intent up<g ref="char:EOLhyphen"/>on the other. He had no ſooner diſcovered theſe with all their circumſtances, but he was condemn'd to be burnt at <hi>Chalons.</hi>
+            </p>
+            <p>Being at the moment of his Execution, and paſt hopes of Pardon or Reprieve, he confeſt as follows, That having made a reſolution to iob a Colonel that lay at his Houſe, he found he could not compaſs it but by his Death,
+<pb n="8" facs="tcp:104449:6"/>
+               <!-- PDF PAGE 108 -->which he effected thus. The Colonel uſed conſtantly to come hometo his Lodgings very late, and ſometimes very early about two or three a Clock in the morning, and not to di<g ref="char:EOLhyphen"/>ſturb his Servants, he was wont to give them all leave to go to bed when they pleas'd, on<g ref="char:EOLhyphen"/>ly leaving him a Candle lighted in his Cham<g ref="char:EOLhyphen"/>ber, and this was always punctually obſerv'd, which Cuſtom gave Opportunity to <hi>Virgette</hi> according to his wiſh to execute his barbarous deſign; which in a little time he performed. After he had thus murdered the Colonel, he caſt his Body into the Ditch where his Aunts was, and the next day ſent out the Servants to go ſeek after their Maſter, who he ſaid came not in that night.</p>
+            <p>He likewiſe confeſs'd the Murder of two young Scholars that were Sons to a Perſon of Quality. Their Father had ſent them eight hundred Livres, which they had entruſted him withal, to lay up for them. Theſe at an ad<g ref="char:EOLhyphen"/>vantageous opportunity he murdered and bu<g ref="char:EOLhyphen"/>ried them in his Garden, as he confeſſed, in ſuch a place, where Search being made, they found the Bodies of two murdered Youths.</p>
+            <pb n="9" facs="tcp:104449:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <p>And thus, Reader, you have here only a bare Tranſlation of theſe four horrible Mur<g ref="char:EOLhyphen"/>ders, and I leave it to your Ingenuity to make what Remarks the Circumſtances of theſe Vil<g ref="char:EOLhyphen"/>lanies can afford, which are the moſt barbarous and foul that I ever heard of, and all com<g ref="char:EOLhyphen"/>mitted by one ſingle perſon, whoſe Cruelty is ſcarce to be parallel'd, it being ſo traſcen<g ref="char:EOLhyphen"/>dently abominable, and therefore I think it not unworthy a communicating to the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104449:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <head>An Advertiſement of ſome BOOKS Printed for <hi>Jonathan Edwin</hi> at the Three Roſes in <hi>Ludgate-ſtreet.</hi>
+            </head>
+            <list>
+               <item>THe bloody Murther or the Unnatural Son, his juſt Condemnation at the Aſſizes held at <hi>Mon<g ref="char:EOLhyphen"/>mouth, March</hi> 8, 1672. With the Suffering of his Siſter and Servant for murdering his Mother Mrs <hi>Grace Jones,</hi> for which the ſaid Son was preſt to death, his Siſter burnt, and his Boy hang'd, with a true Account of their Trials, penitent <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehaviours, Speeches and circumſtances thereunto relating, with Letters of ſeveral worthy Divines. In <hi>octavo.</hi>
+               </item>
+               <item>The French way of exerciſing the Infantry, as it is now uſed in the Armys of his moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty. In <hi>folio.</hi>
+               </item>
+               <item>The Mercury Gallant, conteining many true and pleaſant Relations of what hath paſſed at <hi>Paris</hi> from <hi>Jan.</hi> 1, 1672. till the Kings departure thence. In <hi>octavo.</hi>
+               </item>
+               <item>The Dutch Uſurpation or a brief View of the Be<g ref="char:EOLhyphen"/>haviour of the States General towards the Kings of Great <hi>Britain,</hi> with ſome of their Cruelties and In<g ref="char:EOLhyphen"/>juſtices exerciſed upon the Subjects of the Engliſh Na<g ref="char:EOLhyphen"/>tion. In two parts. In <hi>quarto.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
